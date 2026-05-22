@@ -1,4 +1,4 @@
-<img width="1080" height="1080" alt="-1" src="https://github.com/user-attachments/assets/2696c673-6ee3-4bbe-8805-7f9e61160cfb" />
+<img width="500" height="500" alt="-1" src="https://github.com/user-attachments/assets/2696c673-6ee3-4bbe-8805-7f9e61160cfb" />
 
 # BroomRunner
 
