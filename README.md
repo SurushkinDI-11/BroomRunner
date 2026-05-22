@@ -1,3 +1,5 @@
+<img width="1080" height="1080" alt="-1" src="https://github.com/user-attachments/assets/2696c673-6ee3-4bbe-8805-7f9e61160cfb" />
+
 # BroomRunner
 
 **Broom Runner** — компьютерная аркадная игра в жанре «раннер» (бесконечный бег с препятствиями).
