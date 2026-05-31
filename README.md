@@ -68,7 +68,7 @@
 ---
 
 ## Видео геймплея
-⬇️ BroomRunner gameplay [(https://disk.yandex.ru/i/1TZFPuruTq3JvA)]
+⬇️ BroomRunner gameplay [(https://rutube.ru/video/private/e2283ea8ba392be42f8e9f27d0075ae8/?p=KCu4HOcwIvt45q_cfhve0g)]
 ---
 
 ## Авторы
